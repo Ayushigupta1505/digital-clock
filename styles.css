@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.Clock{
+    position: absolute;
+    color: green;
+    font-size: xx-large;
+    font-weight: bold;   
+    letter-spacing: 5px;  
+}
